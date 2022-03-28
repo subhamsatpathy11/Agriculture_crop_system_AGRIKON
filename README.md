@@ -6,4 +6,4 @@ Agrikon is an Agro based website, enabling and creating concrete paths for the F
 
 ## Case Study Video Link
 
-Video here : 
+Video here : https://drive.google.com/file/d/1kBfJ5oW6IoA_nrCEpepShkJPVy56vLNP/view
